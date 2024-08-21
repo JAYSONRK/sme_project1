@@ -1,4 +1,4 @@
-# Jayson Bootstrap Blog Main
+# Jayson sme_project1
 
 ## Table of contents
 
@@ -26,8 +26,8 @@ Your users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL](https://github.com/JAYSONRK/Jayson-Progamming-language-Blog-bootstrap)
-- Live Site URL: [live site URL](https://jaysonrk.github.io/Jayson-Progamming-language-Blog-bootstrap/)
+- Solution URL: [solution URL](https://github.com/JAYSONRK/sme_project1)
+- Live Site URL: [live site URL](https://jaysonrk.github.io/sme_project1/)
 
 
 ### Built with
