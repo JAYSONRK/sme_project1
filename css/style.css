@@ -383,6 +383,8 @@ body {
     font-family : var(--title);
     outline: none;
     border-radius: 0.4rem;
+    text-decoration: none;
+    width: 9rem;
 }
 
 footer p {
