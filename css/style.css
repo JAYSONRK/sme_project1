@@ -23,7 +23,7 @@ p,
 li, 
 label,
 input::placeholder {
-    font-size: 1.9rem;
+    font-size: 1.8rem;
     line-height: 170%;
     color: #6c757d;
 } 
